@@ -1,3 +1,20 @@
 body{
 	background-image: url("tic-tac-toe.png");
 }
+.card-title{
+	color:#4aaaa5
+}
+.card-text{
+	color: whitesmoke
+}
+.fancyFy{
+	background-color: rgba(0, 0, 0, 0.5);
+	margin-top: 10px;
+	padding: 5px;
+	border-width: 5px;
+	border-style: solid;
+	border-radius: 10px;
+}
+.display-4{
+	margin-bottom: 50px;
+}
