@@ -18,3 +18,11 @@ body{
 .display-4{
 	margin-bottom: 50px;
 }
+.display-5{
+	text-align: center;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+.fixThis{
+	margin-bottom: 0px;
+}
